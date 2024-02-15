@@ -1,8 +1,9 @@
-# React + Vite
+## React + Cloudinary
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Overview:
+ This project is a simple React application that demonstrates the integration of Cloudinary for image management in a frontend environment. Cloudinary is a cloud-based media management solution that enables efficient storage, manipulation, and delivery of images and videos.
+### Features:
 
-Currently, two official plugins are available:
+Image Upload: Users can upload images directly from their devices to Cloudinary using the provided interface.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Image Display: The application showcases how to retrieve and display images from Cloudinary within the React frontend.
